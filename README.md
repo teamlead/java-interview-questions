@@ -1776,4 +1776,4 @@ Feel free to contribute to this list by creating a pull request or raising an is
 
 ---
 
-&copy; 2023 YourName/YourUsername. All rights reserved.
+&copy; 2023 github.com/teamlead. All rights reserved.
