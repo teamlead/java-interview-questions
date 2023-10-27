@@ -7,7 +7,7 @@ Uma lista selecionada de **1.715** perguntas de entrevistas sobre Java, classifi
 ## Índice
 
 - [Traduções](#traduções)
-- [Lista de perguntas](#lista de perguntas)
+- [Lista de perguntas](#lista-de-perguntas)
     - [Alta ocorrência](#alta-ocorrência)
     - [Ocorrência moderada](#ocorrência-moderada)
     - [Baixa ocorrência](#baixa-ocorrência)

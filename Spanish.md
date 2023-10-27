@@ -7,10 +7,10 @@ Una lista seleccionada de **1715** preguntas de entrevistas sobre Java, ordenada
 ## Tabla de contenido
 
 - [Traducciones](#traducciones)
-- [Lista de preguntas](#lista-preguntas)
+- [Lista de preguntas](#lista-de-preguntas)
     - [Alta ocurrencia](#alta-ocurrencia)
     - [Ocurrencia moderada](#ocurrencia-moderada)
-    - [Baja ocurrencia](#baja ocurrencia)
+    - [Baja ocurrencia](#baja-ocurrencia)
     - [Muy baja ocurrencia](#muy-baja-ocurrencia)
 
 ## Traducciones
