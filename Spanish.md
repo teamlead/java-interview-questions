@@ -4,6 +4,8 @@ Una lista seleccionada de **1715** preguntas de entrevistas sobre Java, ordenada
 
 > **Metodología**: Se analizaron 600 entrevistas públicas en YouTube y de ellas se recogieron miles de preguntas únicas. El análisis utilizó técnicas de transcripción de voz y categorización de texto. Luego se contó la frecuencia de cada pregunta y se determinó la probabilidad de que se formulara cada pregunta.
 
+![Videos](videos.png)
+
 ## Tabla de contenido
 
 - [Traducciones](#traducciones)

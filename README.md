@@ -4,6 +4,8 @@ A curated list of **1715** Java interview questions, sorted by their frequency o
 
 > **Methodology**: 600 public interviews on YouTube were analyzed, and thousands of unique questions were gathered from them. The analysis utilized voice transcription and text categorization techniques. The frequency of each question was then counted, and the probability of each question being asked was determined.
 
+![Videos](videos.png)
+
 ## Table of Contents
 
 - [Translations](#translations)
