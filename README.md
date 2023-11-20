@@ -38,10 +38,10 @@ Each translated file follows the same structure as the main list, but in the res
 
 | Question                                                                | Category         |
 |-------------------------------------------------------------------------|------------------|
-| Tell about yourself                                                     | General          |
+| Tell me about yourself                                                  | General          |
 | What is OOP                                                             | OOP              |
 | What is the difference between Checked and UNCHECked exceptions         | Java Core        |
-| What methods in the Object class know                                   | Java Core        |
+| What methods in the Object class do you know                            | Java Core        |
 | Tell me about the hierarchy of exceptions                               | Java Core        |
 | What is Solid                                                           | General          |
 | Tell me about the hierarchy of collections in Java                      | Java Collections |
@@ -50,12 +50,12 @@ Each translated file follows the same structure as the main list, but in the res
 | Tell me about Hashcode and Equals Contract                              | Java Core        |
 | What is the difference between a primitive and a reference type of data | Java Core        |
 | How Hashmap is organized                                                | Java Collections |
-| What experience is in programming                                       | General          |
+| What is you experience is in programming                                | General          |
 | What do you know about Object class                                     | Java Core        |
 | What are the principles of OOP                                          | OOP              |
-| What is acid                                                            | Databases        |
+| What is ACID                                                            | Databases        |
 | What is Stream in Java?                                                 | Java 8           |
-| What Spring Scope know                                                  | Spring           |
+| What Spring Scopes do you know                                          | Spring           |
 | What is a functional interface                                          | Java 8           |
 
 
@@ -74,16 +74,16 @@ Each translated file follows the same structure as the main list, but in the res
 | What is the idea of multi -seating                          | Multithreading   |
 | How Hashmap is related to SET                               | Java Collections |
 | Tell me about Race Condition                                | Multithreading   |
-| What is the difference between final vs.Finally vs.Finalize | Java Core        |
+| What is the difference between final vs Finally vs Finalize | Java Core        |
 | What primitive data types are in Java                       | Java Core        |
-| What areas of memory in JVM you know                        | Java Core        |
+| What areas of memory in JVM do you know                     | Java Core        |
 | Familiar with SQL                                           | SQL              |
 | Why do you need a class Object                              | Java Core        |
-| What design patterns you know                               | Patterns         |
+| What design patterns do you know                            | Patterns         |
 | How Singleton differs from Prototype                        | Patterns         |
 | What is polymorphism                                        | OOP              |
 | What is a process and a stream, how they differ             | Multithreading   |
-| You are familiar with SQL                                   | SQL              |
+| Are you familiar with SQL                                   | SQL              |
 | What is the life cycle of Spring Beans                      | Spring           |
 | Tell me about Hashmap                                       | Java Collections |
 
@@ -95,7 +95,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What is Hibernate                                                                                      | Hibernate        |
 | What is the difference between JDK and Jre                                                             | Java Core        |
 | What is Hashcode                                                                                       | Java Core        |
-| What is a pool of lines                                                                                | Java Core        |
+| What is a string pool                                                                                  | Java Core        |
 | What is an iterator and why it is needed                                                               | Java Core        |
 | What is the difference between the MAP operation and Flatmap                                           | Java Core        |
 | What types of data are in Java                                                                         | Java Core        |
@@ -110,9 +110,9 @@ Each translated file follows the same structure as the main list, but in the res
 | What is an exception                                                                                   | Java Core        |
 | What is optimistic and pessimistic locks                                                               | Multithreading   |
 | What is a monitor                                                                                      | Multithreading   |
-| Why Java                                                                                               | General          |
+| Why do you love or hate Java                                                                           | General          |
 | What types of Join do you know                                                                         | SQL              |
-| What is the difference between Having                                                                  | SQL              |
+| What is the difference between Having  and Where                                                       | SQL              |
 | What is the difference between hashmap and hashtable                                                   | Java Collections |
 | What is a keyword Final                                                                                | Java Core        |
 | What is Spring context                                                                                 | Spring           |
@@ -123,7 +123,7 @@ Each translated file follows the same structure as the main list, but in the res
 | Why do you need Spring Framework                                                                       | Spring           |
 | How is Rebase different from Merge?                                                                    | Git              |
 | What is Finalize                                                                                       | Java Core        |
-| Is it possible to reduce static methods                                                                | Java Core        |
+| Is it possible to override static methods                                                              | Java Core        |
 | What makes the key word transient                                                                      | Java Core        |
 | What is the difference between Supplier and Consumer                                                   | Java Core        |
 | What is the idea of polymorphism                                                                       | Java Core        |
@@ -154,8 +154,8 @@ Each translated file follows the same structure as the main list, but in the res
 | What is Completablefuture                                                                              | Multithreading   |
 | How to create a stream                                                                                 | Multithreading   |
 | What is partitioning                                                                                   | Databases        |
-| Describe the principle of Happens Before within the framework                                          | Multithreading   |
-| What design templates do you know                                                                      | Patterns         |
+| Describe the principle of Happens Before                                                               | Multithreading   |
+| What design patters do you know                                                                        | Patterns         |
 | What is synchronization and why it is needed                                                           | Multithreading   |
 | What are the advantages and disadvantages of the OOP compared to procedural and functional programming | OOP              |
 | What are the states of the object in Hibernate                                                         | Hibernate        |
@@ -172,13 +172,13 @@ Each translated file follows the same structure as the main list, but in the res
 | What is Deque                                                                                          | Java Collections |
 | HashTable and Concurrenthashmap - differences and what is more effective                               | Java Collections |
 | What is Bean, what role does Spring play                                                               | Spring           |
-| What is the "Inheritance" pillar                                                                       | OOP              |
+| What is the "Inheritance"                                                                              | OOP              |
 | What are the options for Dependensky Injection                                                         | Spring           |
 | What is the difference between Leftjoin, Rightjoin and Innerjoin                                       | Databases        |
 | What is Dependency Injection in Spring                                                                 | Spring           |
 | What is a line in Java                                                                                 | Java Core        |
 | What is the idea of polymorphism                                                                       | Java Core        |
-| Is it possible to reduce static methods                                                                | Java Core        |
+| Is it possible to override static methods                                                              | Java Core        |
 | How can I implement multiple inheritance in Java                                                       | Java Core        |
 | What methods are located in the interface                                                              | Java Core        |
 | What is the idea of Stream API                                                                         | Java Core        |
@@ -190,11 +190,11 @@ Each translated file follows the same structure as the main list, but in the res
 | What is CI/CD                                                                                          | General          |
 | What types of data exist in Java                                                                       | Java Core        |
 | Can a primitive data type to get into HIP                                                              | Java Core        |
-| What makes the key word transient                                                                      | Java Core        |
+| What is the keyword transient                                                                          | Java Core        |
 | What types of testing do you know                                                                      | General          |
 | What is String Pool                                                                                    | Java Core        |
 | What is Spring Boot and what is its main advantage                                                     | Spring           |
-| What you know Bean Scope                                                                               | Spring           |
+| What kind of Bean Scope do you know                                                                    | Spring           | 
 | What is the meaning of incapsulation                                                                   | Java Core        |
 | What is Springscope                                                                                    | Spring           |
 | Why is it impossible to compare objects through "=="                                                   | Java Core        |
@@ -204,7 +204,7 @@ Each translated file follows the same structure as the main list, but in the res
 | How the Try With Resources operator works                                                              | Java Core        |
 | What do you know about the Java 8+ functional interface                                                | Java Core        |
 | What is Parallel Stream                                                                                | Java Core        |
-| What are the restrictions in the database                                                              | Databases        |
+| What are the foreign keys in the database                                                              | Databases        |
 | What does Garbage Collector work with                                                                  | Java Core        |
 
 
@@ -212,14 +212,14 @@ Each translated file follows the same structure as the main list, but in the res
 
 | Question                                                                                                                                                                          | Category         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| What teams do you use in Git                                                                                                                                                      | Git              |
+| What commands do you use in Git                                                                                                                                                   | Git              |
 | How do you use SOLID principle of openness-covering when designing                                                                                                                | General          |
 | What is the difference between the Builder and Facade design template                                                                                                             | Patterns         |
-| What is the lack of patterns                                                                                                                                                      | Patterns         |
-| What are the approaches to organizing the development process                                                                                                                     | General          |
-| What is the relationship between JS and Java                                                                                                                                      | General          |
+| What is the lack of desing patterns                                                                                                                                               | Patterns         |
+| What are the approaches to organize the development process                                                                                                                       | General          |
+| What is the relationship between JS and Java :)                                                                                                                                   | General          |
 | What are design patterns                                                                                                                                                          | Patterns         |
-| Tell me about your design experience                                                                                                                                              | Patterns         |
+| Tell me about your design-patters experience                                                                                                                                      | Patterns         |
 | What goals do you set for yourself                                                                                                                                                | General          |
 | What design patterns do you use                                                                                                                                                   | Patterns         |
 | What synchronization channels used to organize the interaction of several services                                                                                                | Patterns         |
@@ -231,7 +231,7 @@ Each translated file follows the same structure as the main list, but in the res
 | As if organized the interaction of several services                                                                                                                               | Patterns         |
 | What is UML what is a “diagram”, “notation” and “metamodel” in UML                                                                                                                | UML              |
 | What is XSLT                                                                                                                                                                      | XML              |
-| What are the pluses of microservices before the monolith                                                                                                                          | Patterns         |
+| What are the pluses of microservices compare to monolith                                                                                                                          | Patterns         |
 | What languages do you know that use byte code                                                                                                                                     | General          |
 | What is JAXP                                                                                                                                                                      | XML              |
 | What are the ways of recording XML                                                                                                                                                | XML              |
@@ -249,19 +249,19 @@ Each translated file follows the same structure as the main list, but in the res
 | Caching only works with databases or not                                                                                                                                          | General          |
 | What is a "deployment descriptor"                                                                                                                                                 | Servlets         |
 | What is XSD scheme                                                                                                                                                                | XML              |
-| As a serviceman container controls the life cycle of the Serlet, when and what methods are called                                                                                 | Servlets         |
+| How container controls the life cycle of the Serlet, when and what methods are called                                                                                             | Servlets         |
 | Why do you need application servers if there are server containers                                                                                                                | Servlets         |
 | What is XML                                                                                                                                                                       | XML              |
-| What is the advantage of the Builder pattern over the designer                                                                                                                    | Patterns         |
-| What actions need to be done when creating Servesta                                                                                                                               | Servlets         |
-| In which case is it required to reduce the Service () method ()                                                                                                                   | Servlets         |
+| What is the advantage of the Builder pattern over the constructor                                                                                                                 | Patterns         |
+| What actions need to be done when creating Servlets                                                                                                                               | Servlets         |
+| In which case is it required to override the Service () method ()                                                                                                                 | Servlets         |
 | What is the "Container of the Servmar"                                                                                                                                            | Servlets         |
 | Which structure acts as quickly as possible to the Comand pattern than it can be replaced                                                                                         | Patterns         |
 | What is the caching for                                                                                                                                                           | General          |
 | How to implement the launch of the servicema simultaneously with the launch of the application                                                                                    | Servlets         |
 | When to use the Servetov filters, and when are the listeners                                                                                                                      | Servlets         |
 | What types exist in XSD                                                                                                                                                           | XML              |
-| Why are various listener used in the Servites                                                                                                                                     | Servlets         |
+| Why are various listener used in the Servlets                                                                                                                                     | Servlets         |
 | What do you know about the Serpent filters                                                                                                                                        | Servlets         |
 | What is Servletconfig                                                                                                                                                             | Servlets         |
 | What is ServletContext                                                                                                                                                            | Servlets         |
@@ -284,13 +284,13 @@ Each translated file follows the same structure as the main list, but in the res
 | What does the URL Encoding mean, how to do it in Java                                                                                                                             | Servlets         |
 | What are the most common tasks performed in the server container                                                                                                                  | Servlets         |
 | What are cookies                                                                                                                                                                  | Servlets         |
-| Why it is necessary to reduce the only init () method without arguments                                                                                                           | Servlets         |
+| Why it is necessary to override the only init () method without arguments                                                                                                         | Servlets         |
 | What is the URL REWRITING                                                                                                                                                         | Servlets         |
 | How the Well-Formed XML differs from Valid XML                                                                                                                                    | XML              |
 | What is a "session"                                                                                                                                                               | Servlets         |
-| Does it make sense to determine the designer for the servlet, which is better to initialize data                                                                                  | Servlets         |
+| Does it make sense to determine the constructor for the servlet, which is better to initialize data                                                                               | Servlets         |
 | What is an effective way to make sure that all servus are available only for the user with the right session                                                                      | Servlets         |
-| In which case is it required to reduce the Service () method ()                                                                                                                   | Servlets         |
+| In which case is it required to override the Service () method ()                                                                                                                 | Servlets         |
 | How to organize a database connection, provide journalization in Services                                                                                                         | Servlets         |
 | What is DTD                                                                                                                                                                       | XML              |
 | What authentication methods are available to the sergete                                                                                                                          | Servlets         |
@@ -298,7 +298,7 @@ Each translated file follows the same structure as the main list, but in the res
 | Why do you need a jSP                                                                                                                                                             | Servlets         |
 | Caching only works with databases or not                                                                                                                                          | General          |
 | Tell me about the stages (phases) of the JSP life cycle.                                                                                                                          | Servlets         |
-| What actions need to be done when creating Servesta                                                                                                                               | Servlets         |
+| What actions need to be done when creating Servlets                                                                                                                               | Servlets         |
 | What methods of the JSP life cycle can be redefined                                                                                                                               | Servlets         |
 | What is a "deployment descriptor"                                                                                                                                                 | Servlets         |
 | What is the difference between the dynamic and static contents of JSP                                                                                                             | Servlets         |
@@ -308,7 +308,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What areas of visibility of variables exist in jSP                                                                                                                                | Servlets         |
 | What is XML                                                                                                                                                                       | XML              |
 | What implicit objects are not available in a regular JSP page                                                                                                                     | Servlets         |
-| What is the advantage of the Builder pattern over the designer                                                                                                                    | Patterns         |
+| What is the advantage of the Builder pattern over the constructor                                                                                                                 | Patterns         |
 | How to configure initialization parameters for JSP                                                                                                                                | Servlets         |
 | What is the "Container of the Servmar"                                                                                                                                            | Servlets         |
 | What is the structure of the web project                                                                                                                                          | Servlets         |
@@ -347,7 +347,7 @@ Each translated file follows the same structure as the main list, but in the res
 | Life cycle Maven                                                                                                                                                                  | Tools            |
 | How much do you do java                                                                                                                                                           | General          |
 | How do you use Dependency Injection                                                                                                                                               | Spring           |
-| What IOC implementations know                                                                                                                                                     | Spring           |
+| What IOC implementations do you know                                                                                                                                              | Spring           |
 | What is Spring IOC container in Spring.                                                                                                                                           | Spring           |
 | What areas of visibility in Spring you know                                                                                                                                       | Spring           |
 | What types of implementation of addiction do you know                                                                                                                             | Spring           |
@@ -444,11 +444,11 @@ Each translated file follows the same structure as the main list, but in the res
 | What is the noteworthy Java in the context of the platform                                                                                                                        | Java Core        |
 | What is Garbage Collector                                                                                                                                                         | Java Core        |
 | After what moment GC understands that you need to collect garbage                                                                                                                 | Java Core        |
-| What GC you know                                                                                                                                                                  | Java Core        |
+| What GC do you know                                                                                                                                                               | Java Core        |
 | How can we set the GC configuration parameters                                                                                                                                    | Java Core        |
 | What plugins can be put when creating a virtual machine                                                                                                                           | Java Core        |
 | What is the difference between Equals and Hashcode                                                                                                                                | Java Core        |
-| Why is it important to reduce Equals and Hashcode                                                                                                                                 | Java Core        |
+| Why is it important to override Equals and Hashcode                                                                                                                               | Java Core        |
 | In the context of the business, is it necessary to take into account in Equals all the fields of the essence                                                                      | Java Core        |
 | Tell me briefly about the idea of processing errors in Java.                                                                                                                      | Java Core        |
 | What designs in the processing of errors do you know                                                                                                                              | Java Core        |
@@ -456,7 +456,7 @@ Each translated file follows the same structure as the main list, but in the res
 | Where in the processing of exceptions a design with Finally can be used                                                                                                           | Java Core        |
 | What is the value of the byte                                                                                                                                                     | Java Core        |
 | How to quickly make a rest service                                                                                                                                                | Spring           |
-| What needs to be done in order to reduce hashcode                                                                                                                                 | Java Core        |
+| What needs to be done in order to override hashcode                                                                                                                               | Java Core        |
 | How the line "under the hood" works                                                                                                                                               | Java Core        |
 | How to bring a line into arrays of characters                                                                                                                                     | Java Core        |
 | What is ensured by immutable                                                                                                                                                      | Java Core        |
@@ -468,17 +468,17 @@ Each translated file follows the same structure as the main list, but in the res
 | Can I use Equals in the form in which it is                                                                                                                                       | Java Core        |
 | What is the difference between the abstract class and the abstract method, and the abstract method and interface                                                                  | Java Core        |
 | What is dynamic polymorphism                                                                                                                                                      | Java Core        |
-| What is the idea of overloading designers                                                                                                                                         | Java Core        |
+| What is the idea of overloading constructors                                                                                                                                      | Java Core        |
 | Why is immutable so important                                                                                                                                                     | Java Core        |
 | How is the database request and processing the results are carried out                                                                                                            | JDBC             |
 | What is the difference between JVM from JDK                                                                                                                                       | Java Core        |
-| Do we always need to reduce Equals                                                                                                                                                | Java Core        |
+| Do we always need to override Equals                                                                                                                                              | Java Core        |
 | Why Java platform is independent                                                                                                                                                  | Java Core        |
-| What is the reason for the incomplete Java object -orientation                                                                                                                    | Java Core        |
-| What you know Wrapper                                                                                                                                                             | Java Core        |
+| What is the reason for the incomplete Java object                                                                                                                                 | Java Core        |
+| What is Wrapper class                                                                                                                                                             | Java Core        |
 | Have you heard something about Boxing/Unboxing                                                                                                                                    | Java Core        |
-| What is the difference between the method and the designer                                                                                                                        | Java Core        |
-| Is it possible to reduce the method?And the designer                                                                                                                              | Java Core        |
+| What is the difference between the method and the constructor                                                                                                                     | Java Core        |
+| Is it possible to override the method? And the constructor                                                                                                                        | Java Core        |
 | What are heterogeneous types                                                                                                                                                      | Java Core        |
 | How to store and process a password working with java                                                                                                                             | Java Core        |
 | Where it would be worth applying enum transfers                                                                                                                                   | Java Core        |
@@ -549,7 +549,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What is the difference between Statement and PrepareDstate                                                                                                                        | JDBC             |
 | What is the idea in Geneeric generalizations                                                                                                                                      | Java Core        |
 | Have you heard about new chips of the latest versions of Java                                                                                                                     | Java Core        |
-| How to reduce the Equals method                                                                                                                                                   | Java Core        |
+| How to override the Equals method                                                                                                                                                 | Java Core        |
 | What is Resultset                                                                                                                                                                 | JDBC             |
 | What is the difference between String and Stringbuilder                                                                                                                           | Java Core        |
 | How to create singleton-tin when starting a Spring application                                                                                                                    | Spring           |
@@ -565,7 +565,7 @@ Each translated file follows the same structure as the main list, but in the res
 | Tell me about JDBCTEMPLATE                                                                                                                                                        | JDBC             |
 | What terminal operations do we have                                                                                                                                               | Java Core        |
 | How are the problems of memory deficiency and exclusion of Out of Memory Exception are resolved                                                                                   | Java Core        |
-| What is Java designer                                                                                                                                                             | Java Core        |
+| What is Java constructor                                                                                                                                                          | Java Core        |
 | How can you install a connection with a database                                                                                                                                  | JDBC             |
 | What types of proxies do you know                                                                                                                                                 | Spring           |
 | What is the difference between Statement and PrepareDstate                                                                                                                        | JDBC             |
@@ -574,7 +574,7 @@ Each translated file follows the same structure as the main list, but in the res
 | How to create singleton-tin when starting a Spring application                                                                                                                    | Spring           |
 | What is the difference between Execute, Executequary, Executeupdate                                                                                                               | JDBC             |
 | How Resultset works inside                                                                                                                                                        | JDBC             |
-| What did I do on Spring                                                                                                                                                           | Spring           |
+| What projects did you do using Spring                                                                                                                                             | Spring           |
 | Why do we need Resultset                                                                                                                                                          | JDBC             |
 | What commands do you know from SQL                                                                                                                                                | No               |
 | Tell me about Execute Executequery and Executeupdate                                                                                                                              | JDBC             |
@@ -611,7 +611,7 @@ Each translated file follows the same structure as the main list, but in the res
 | How errors are processed using JSTL                                                                                                                                               | Servlets         |
 | What is the difference between a member of a class copy and a static class member                                                                                                 | Java Core        |
 | Is it possible to declare the method abstract and static at the same time                                                                                                         | Java Core        |
-| What is Capacy                                                                                                                                                                    | Java Collections |
+| What is Capacy of list                                                                                                                                                            | Java Collections |
 | By what principle does the number of bakers increase                                                                                                                              | Java Collections |
 | What data structure lies in Arraylist                                                                                                                                             | No               |
 | How can I process JSP page errors                                                                                                                                                 | Servlets         |
@@ -637,7 +637,7 @@ Each translated file follows the same structure as the main list, but in the res
 | How to access overstroting parental methods                                                                                                                                       | Java Core        |
 | How to organize a search for Arraylist                                                                                                                                            | Java Collections |
 | What is CAS                                                                                                                                                                       | No               |
-| What is the difference between PUT and Comput                                                                                                                                     | No               |
+| What is the difference between PUT and Compute in Map                                                                                                                             | No               |
 | Is it possible to narrow the access level/type of the returned value when the method is redistributed                                                                             | Java Core        |
 | What does verified and unverified values mean                                                                                                                                     | No               |
 | How to work on Spring                                                                                                                                                             | No               |
@@ -686,7 +686,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What restriction is to add to Treeset                                                                                                                                             | Java Collections |
 | What are "anonymous classes" where they are used                                                                                                                                  | Java Core        |
 | Can Treeset store null                                                                                                                                                            | Java Collections |
-| What is the difference between JSPWRITER and the Serpent Printwriter                                                                                                              | Servlets         |
+| What is the difference between JSPWRITER and the Printwriter                                                                                                                      | Servlets         |
 | What are the main implementations about the collection                                                                                                                            | Java Collections |
 | What will happen to the garbage collector if the execution of the finalize () method requires significantly a lot of time, or during the execution the exception will be released | Java Core        |
 | What is the level of complexity in Hashset when looking for an element                                                                                                            | Java Collections |
@@ -712,7 +712,7 @@ Each translated file follows the same structure as the main list, but in the res
 | Tell me about LinkedHashmap                                                                                                                                                       | Java Collections |
 | Where could Prototype be used                                                                                                                                                     | Spring           |
 | What types of classes are in Java                                                                                                                                                 | Java Core        |
-| Where the initialization of static/non -tatual fields is allowed                                                                                                                  | Java Core        |
+| Where the initialization of static/non-static fields is allowed                                                                                                                   | Java Core        |
 | How errors are processed using JSTL                                                                                                                                               | Servlets         |
 | What is the difference between a member of a class copy and a static class member                                                                                                 | Java Core        |
 | Is it possible to declare the method abstract and static at the same time                                                                                                         | Java Core        |
@@ -723,7 +723,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What is the difference between the approaches of Trunk BASD and Feature Branch                                                                                                    | Git              |
 | What is a link to the method and how it is realized                                                                                                                               | Java 8           |
 | How to access overstroting parental methods                                                                                                                                       | Java Core        |
-| Is it possible to narrow the access level/type of the returned value when the method is redistributed                                                                             | Java Core        |
+| Is it possible to override the access level/type of the returned value when the method is private                                                                                 | Java Core        |
 | Why you do not need to configure standard JSP tags in Web.xml                                                                                                                     | Servlets         |
 | What is Dirty Checking in Hibernate                                                                                                                                               | Hibernate        |
 | Can non -non -static methods can overload static                                                                                                                                  | Java Core        |
@@ -732,11 +732,11 @@ Each translated file follows the same structure as the main list, but in the res
 | What is serialization                                                                                                                                                             | Serialization    |
 | Where and when used Prototype                                                                                                                                                     | Spring           |
 | What is http protocol                                                                                                                                                             | WEB              |
-| What will happen if an exceptional situation arises in the initialization block                                                                                                   | Java Core        |
+| What will happen if an exception throws in the constuctor                                                                                                                         | Java Core        |
 | Why Java uses static initialization blocks                                                                                                                                        | Java Core        |
 | Give an example of using your own tags                                                                                                                                            | Servlets         |
 | What designs Java are applicable to the Static modifier                                                                                                                           | Java Core        |
-| What is the procedure for calling designers and blocks of initialization taking into account the hierarchy of classes                                                             | Java Core        |
+| What is the procedure for calling constructors and blocks of initialization taking into account the hierarchy of classes                                                          | Java Core        |
 | What do you know about writing user jSP tags                                                                                                                                      | Servlets         |
 | What will happen if in ApplicationContext you try to get the same bin                                                                                                             | Spring           |
 | How to drain two different branches                                                                                                                                               | Git              |
@@ -749,14 +749,14 @@ Each translated file follows the same structure as the main list, but in the res
 | What groups of tags do the JSTL library consist of                                                                                                                                | Servlets         |
 | In what cases should the abstract class should be used, and in which interface                                                                                                    | Java Core        |
 | What modifiers by default have fields and interfaces methods                                                                                                                      | Java Core        |
-| Why do you need a program that works in several flows, and not in one                                                                                                             | Multithreading   |
+| Why do you need a program that works in several threads, and not in one                                                                                                           | Multithreading   |
 | What is JSTL, JSP Standard Tag Library                                                                                                                                            | Servlets         |
 | What are the options for synchronization in Java                                                                                                                                  | Multithreading   |
 | What is Atomic Types, what are they needed                                                                                                                                        | Multithreading   |
-| What is the security of the flow                                                                                                                                                  | Multithreading   |
+| What is the security of the threads                                                                                                                                               | Multithreading   |
 | What is the meaning of the keyword of Volatile and related problems                                                                                                               | Multithreading   |
 | Where and for what the ABSTRACT modifier is used                                                                                                                                  | Java Core        |
-| How to make the flow be made priority and whether there is such an opportunity in Java                                                                                            | Multithreading   |
+| How to adjust the thread priority and how                                                                                                                                         | Multithreading   |
 | What is the object of the interface Runnable                                                                                                                                      | Multithreading   |
 | What groups of tags do the JSTL library consist of                                                                                                                                | Servlets         |
 | What is the semaphore                                                                                                                                                             | Multithreading   |
@@ -811,14 +811,14 @@ Each translated file follows the same structure as the main list, but in the res
 | What is Join's idea                                                                                                                                                               | Databases        |
 | What I heard about the Exists operator                                                                                                                                            | Databases        |
 | Tell the interruption and second form of normalization                                                                                                                            | Databases        |
-| What is a designer for copying                                                                                                                                                    | No               |
+| What is a constructor for copying                                                                                                                                                 | No               |
 | What is the idea of Builder                                                                                                                                                       | No               |
 | What is unique applied to                                                                                                                                                         | No               |
 | Why is it not recommended to use science, script elements, in jSP                                                                                                                 | Servlets         |
 | Can there be a situation where Primary Key is repeated                                                                                                                            | No               |
 | What is the basis of Spring Framework                                                                                                                                             | No               |
-| Is it possible to introduce dependence not only through the designer                                                                                                              | No               |
-| What is performed earlier: designer, setter or implementation field                                                                                                               | No               |
+| Is it possible to introduce dependence not only through the constructor                                                                                                           | No               |
+| What is performed earlier: constructor, setter or implementation field                                                                                                            | No               |
 | File specimen contains only a file path                                                                                                                                           | No               |
 | What do the relationship "is" and "have" in the OOP                                                                                                                               | No               |
 | Where it is better to use inheritance and association                                                                                                                             | No               |
@@ -830,7 +830,7 @@ Each translated file follows the same structure as the main list, but in the res
 | Tell me about File class and its device                                                                                                                                           | No               |
 | How to avoid compulsory IOEXCEPTION processing                                                                                                                                    | No               |
 | What is atomic and consistency                                                                                                                                                    | No               |
-| Why is Java Memory Model important when working with multi -flow                                                                                                                  | No               |
+| Why is Java Memory Model important when working with multi -thread                                                                                                                | No               |
 | What is the difference between Synchronized and Lock                                                                                                                              | No               |
 | What is callable                                                                                                                                                                  | No               |
 | Advantages of the implementation of Executorservice                                                                                                                               | No               |
@@ -846,7 +846,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What is BeandEfinition and why is it needed                                                                                                                                       | No               |
 | How to contact another service from a Spring application                                                                                                                          | No               |
 | What is the value of Spring Boot                                                                                                                                                  | No               |
-| What outstanded starters do you know in Spring Boot                                                                                                                               | No               |
+| What starters do you know in Spring Boot                                                                                                                                          | No               |
 | Is it necessary to catch Throws                                                                                                                                                   | No               |
 | What is encapsulation for                                                                                                                                                         | No               |
 | Stack, is it a long -term storage                                                                                                                                                 | No               |
@@ -876,7 +876,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What is Stream in the Stream API context                                                                                                                                          | No               |
 | What is EXECUTORSERVICE for execution                                                                                                                                             | No               |
 | What is meant by the letter O in Solid                                                                                                                                            | No               |
-| What are the differences between the patterns of the OOP strategy and condition                                                                                                   | No               |
+| What are the differences between the strategy pattern and state pattern                                                                                                           | No               |
 | What is an adapter                                                                                                                                                                | No               |
 | What is a group in the database                                                                                                                                                   | No               |
 | What are the main orm realization in Java                                                                                                                                         | No               |
@@ -1044,7 +1044,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What are non -blocking algorithms                                                                                                                                                 | No               |
 | What is the difference between Mono and Flux                                                                                                                                      | No               |
 | What will happen if you apply Volatile in objects                                                                                                                                 | No               |
-| How to ensure synchronization in a multi -flow environment                                                                                                                        | No               |
+| How to ensure synchronization in a multi -thread environment                                                                                                                      | No               |
 | What is the Synchronized block in Java and what are the problems are there                                                                                                        | No               |
 | What is the Database-Per-Service template                                                                                                                                         | No               |
 | What is the EVEN Sourcing template                                                                                                                                                | No               |
@@ -1126,9 +1126,9 @@ Each translated file follows the same structure as the main list, but in the res
 | What is the reason for the existence of MAP as a data structure and Collection in CollectionFramework                                                                             | No               |
 | What is the main vocation of the MAP interface                                                                                                                                    | No               |
 | What are the basic implementations of InputoutPut Strem                                                                                                                           | No               |
-| What is the minimum unit for working with flows                                                                                                                                   | No               |
+| What is the minimum unit for working with threads                                                                                                                                 | No               |
 | What is the progressiveness of NIO                                                                                                                                                | No               |
-| What is the meaning of buffering flows                                                                                                                                            | No               |
+| What is the meaning of buffering threads                                                                                                                                          | No               |
 | What is the advantage of buffering                                                                                                                                                | No               |
 | What is the advantage of buffering                                                                                                                                                | No               |
 | How Track.h works                                                                                                                                                                 | No               |
@@ -1183,7 +1183,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What is the name of the functional interface that accepts the filter                                                                                                              | No               |
 | What Collect does                                                                                                                                                                 | No               |
 | Is it possible to transform the collection into MAP                                                                                                                               | No               |
-| Can there be a designer in the interface                                                                                                                                          | No               |
+| Can there be a constructor in the interface                                                                                                                                       | No               |
 | Overloading the method what it means                                                                                                                                              | No               |
 | What is a signature                                                                                                                                                               | No               |
 | There is String, String Builder, String Buffer what is it                                                                                                                         | No               |
@@ -1194,7 +1194,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What is Spring Web                                                                                                                                                                | No               |
 | What is Mock, Stab, Spy                                                                                                                                                           | No               |
 | How to connect a class with a database                                                                                                                                            | No               |
-| Lazy vs eager download, what is the difference                                                                                                                                    | No               |
+| Lazy vs eager loading, what is the difference                                                                                                                                     | No               |
 | Why did the division of data types into Int, Long                                                                                                                                 | No               |
 | What is the idea of primitive data types                                                                                                                                          | No               |
 | What are programming patterns for                                                                                                                                                 | No               |
@@ -1280,8 +1280,8 @@ Each translated file follows the same structure as the main list, but in the res
 | How Group by processes Null value                                                                                                                                                 | SQL              |
 | List the main aggregate functions                                                                                                                                                 | SQL              |
 | What is the difference between Count (*) and Count ({column})                                                                                                                     | SQL              |
-| Why are operators in, Between, Like                                                                                                                                               | SQL              |
-| Why the keyword is used                                                                                                                                                           | SQL              |
+| What is operators: in, Between, Like                                                                                                                                              | SQL              |
+| When the keyword UNION is used                                                                                                                                                    | SQL              |
 | What are the differences between Primary and Unique restrictions                                                                                                                  | SQL              |
 | Is the value in the column, which is imposed on the restriction of Foreign Key, is NULL                                                                                           | SQL              |
 | How to create an index                                                                                                                                                            | SQL              |
@@ -1303,9 +1303,9 @@ Each translated file follows the same structure as the main list, but in the res
 | Why a line is a popular key in Hashmap in Java                                                                                                                                    | Java Core        |
 | Is it possible to use lines in the design of Switch                                                                                                                               | Java Core        |
 | Why is the Clone () method announced in the Object class, and not in the Cloneable interface                                                                                      | Java Core        |
-| What is the "default designer"                                                                                                                                                    | Java Core        |
-| How the designers differ by defending, copying and designer with parameters                                                                                                       | Java Core        |
-| Where and how you can use a closed designer                                                                                                                                       | Java Core        |
+| What is the "default constructor"                                                                                                                                                 | Java Core        |
+| How the constructors differ by defending, copying and constructor with parameters                                                                                                 | Java Core        |
+| Where and how you can use a closed constructor                                                                                                                                    | Java Core        |
 | Tell me about the classes-loaders and about dynamic class loading                                                                                                                 | Java Core        |
 | Equals () gives rise to the ratio of equivalence, what properties does this attitude have                                                                                         | Java Core        |
 | How are Hashcode () and Equals () methods in class Objecte implemented                                                                                                            | Java Core        |
@@ -1374,7 +1374,7 @@ Each translated file follows the same structure as the main list, but in the res
 | How many transitions are at the time of calling Hashmap.get (Key) on the key that is in the table                                                                                 | Java Collections |
 | How many new objects are created when you add a new element to hashmap                                                                                                            | Java Collections |
 | How and when there is an increase in the number of baskets in hashmap                                                                                                             | Java Collections |
-| Explain the meaning of the parameters in the designer Hashmap (Intialcapacy, Float LoadFactor)                                                                                    | Java Collections |
+| Explain the meaning of the parameters in the constructor Hashmap (Intialcapacy, Float LoadFactor)                                                                                 | Java Collections |
 | Will Hashmap work if all added keys will have the same Hashcode ()                                                                                                                | Java Collections |
 | How to sort all the keys Map                                                                                                                                                      | Java Collections |
 | How to sort out all MAP values                                                                                                                                                    | Java Collections |
@@ -1457,19 +1457,19 @@ Each translated file follows the same structure as the main list, but in the res
 | What are the methods of monitoring the values of the deserialized object                                                                                                          | Serialization    |
 | What features of NIO do you know                                                                                                                                                  | Streams          |
 | What are "channels"                                                                                                                                                               | Streams          |
-| What are the types of input/output flows                                                                                                                                          | Streams          |
-| What are the main classes of input/output flows                                                                                                                                   | Streams          |
-| In which packages are the classes of input/output flows                                                                                                                           | Streams          |
+| What are the types of input/output streams                                                                                                                                        | Streams          |
+| What are the main classes of input/output streams                                                                                                                                 | Streams          |
+| In which packages are the classes of input/output streams                                                                                                                         | Streams          |
 | What kind of Inputstream class subclasses do you know why they are intended                                                                                                       | Streams          |
 | What is PushBackinputstream used for                                                                                                                                              | Streams          |
 | Why is Sequenceinputstream used                                                                                                                                                   | Streams          |
-| Which class allows you to read data from the input byte flow in the format of primitive data types                                                                                | Streams          |
+| Which class allows you to read data from the input byte stream in the format of primitive data types                                                                              | Streams          |
 | What subclasses of the Outputstream class know what they are for                                                                                                                  | Streams          |
 | What are the Reader class subclasses what they are for                                                                                                                            | Streams          |
 | What kind of Writer class subclasses do you know why they are intended                                                                                                            | Streams          |
 | What is the difference between Printwriter class from Printstream                                                                                                                 | Streams          |
 | What is different and what in common has Inputstream, outputstream, Reader, Writer                                                                                                | Streams          |
-| What classes allow you to convert bytic flows into symbolic and vice versa                                                                                                        | Streams          |
+| What classes allow you to convert bytic stream into symbolic and vice versa                                                                                                       | Streams          |
 | What classes allow you to accelerate reading/recording through the use of the buffer                                                                                              | Streams          |
 | Pattern observer                                                                                                                                                                  | General          |
 | Which class is designed to work with the elements of the file system                                                                                                              | Streams          |
@@ -1477,8 +1477,8 @@ Each translated file follows the same structure as the main list, but in the res
 | What do you know about the FileFilter interface                                                                                                                                   | Streams          |
 | What do you know about Randomaccessfile                                                                                                                                           | Streams          |
 | What kind of access to the file does Randomaccessfile have                                                                                                                        | Streams          |
-| Which classes support reading and recording flows in a compressed format                                                                                                          | Streams          |
-| Is it possible to redirect the flows of standard input/output                                                                                                                     | Streams          |
+| Which classes support reading and recording stream in a compressed format                                                                                                         | Streams          |
+| Is it possible to redirect the stream of standard input/output                                                                                                                    | Streams          |
 | What is the symbol by a separator when specifying a path in the file system                                                                                                       | Streams          |
 | What is the "absolute path" and "relative path"                                                                                                                                   | Streams          |
 | What is a "symbolic link"                                                                                                                                                         | Streams          |
@@ -1550,7 +1550,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What is atomicity                                                                                                                                                                 | Multithreading   |
 | What is Mutual Exclusion                                                                                                                                                          | Multithreading   |
 | What is Safe Publication                                                                                                                                                          | Multithreading   |
-| What are "green flows" and whether they are in Java                                                                                                                               | Multithreading   |
+| What are "green threads" and whether they are in Java                                                                                                                             | Multithreading   |
 | What is the difference between the Start () and Run () methods                                                                                                                    | Multithreading   |
 | How to start a stream forcibly                                                                                                                                                    | Multithreading   |
 | In what states can a stream be                                                                                                                                                    | Multithreading   |
@@ -1562,7 +1562,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What is the difference between the methods Thread.sleep () and Thread.yld ()                                                                                                      | Multithreading   |
 | How the Thread.join () method works                                                                                                                                               | Multithreading   |
 | What is Livelock                                                                                                                                                                  | Multithreading   |
-| How to check whether the flow holds a monitor of a certain resource                                                                                                               | Multithreading   |
+| How to check whether the threads holds a monitor of a certain resource                                                                                                            | Multithreading   |
 | What object is synchronization when the Static Synchronized method is called                                                                                                      | Multithreading   |
 | Why is the keyword Synchronized                                                                                                                                                   | Multithreading   |
 | What are the differences between Volatile and atomic variables                                                                                                                    | Multithreading   |
@@ -1572,16 +1572,16 @@ Each translated file follows the same structure as the main list, but in the res
 | What is FutureTask                                                                                                                                                                | Multithreading   |
 | What are the differences between CyclicBarrier and Countdownlatch                                                                                                                 | Multithreading   |
 | Is there a way to solve the problem of Race Condition                                                                                                                             | Multithreading   |
-| How to stop the flow                                                                                                                                                              | Multithreading   |
+| How to stop a thread                                                                                                                                                              | Multithreading   |
 | Why is it not recommended to use the Thread.stop () method                                                                                                                        | Multithreading   |
 | What happens when an exception is thrown out in the stream                                                                                                                        | Multithreading   |
 | What is the difference between Interrupted () and Isinterrupted ()                                                                                                                | Multithreading   |
-| What is a "flows pool"                                                                                                                                                            | Multithreading   |
-| What size should there be a flower bullet                                                                                                                                         | Multithreading   |
-| What will happen if the turn of the flows bullet is already filled, but a new task is served                                                                                      | Multithreading   |
-| What is the difference between the Submit () and execute () methods in the flows pool                                                                                             | Multithreading   |
+| What is a "thread pool"                                                                                                                                                           | Multithreading   |
+| What size should there be a thread pool                                                                                                                                           | Multithreading   |
+| What will happen if the turn of the thread pool is already filled, but a new task is served                                                                                       | Multithreading   |
+| What is the difference between the Submit () and execute () methods in the thread pool                                                                                            | Multithreading   |
 | What are the differences between the CTEK (stack) and a heap (heap) in terms of multi -use                                                                                        | Multithreading   |
-| How to share data between two flows                                                                                                                                               | Multithreading   |
+| How to share data between two threads                                                                                                                                             | Multithreading   |
 | How to get a dump stream                                                                                                                                                          | Multithreading   |
 | What is Threadlocal-cross                                                                                                                                                         | Multithreading   |
 | What are the differences between Synchronized and Reentrantlock                                                                                                                   | Multithreading   |
@@ -1646,7 +1646,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What tasks did the patterns solved                                                                                                                                                | Patterns         |
 | Where you can use singleton                                                                                                                                                       | Patterns         |
 | What patterns used besides Singleton                                                                                                                                              | Patterns         |
-| What is the advantage of the Builder pattern over the designer                                                                                                                    | Patterns         |
+| What is the advantage of the Builder pattern over the constructor                                                                                                                 | Patterns         |
 | Whether you use the Comand pattern in work                                                                                                                                        | Patterns         |
 | Why do you need a pattern Command                                                                                                                                                 | Patterns         |
 | Which structure acts as quickly as possible to the Comand pattern than it can be replaced                                                                                         | Patterns         |
@@ -1661,7 +1661,7 @@ Each translated file follows the same structure as the main list, but in the res
 | What is the difference between the Builder and Facade design template                                                                                                             | Patterns         |
 | What teams do you use in Git                                                                                                                                                      | Git              |
 | Why are you needed versions control systems?                                                                                                                                      | Git              |
-| What are the general branching strategies you know                                                                                                                                | Git              |
+| What are the general branching strategies do you know                                                                                                                             | Git              |
 | How to drain two different branches                                                                                                                                               | Git              |
 | What is the difference between the approaches of Trunk BASD and Feature Branch                                                                                                    | Git              |
 | What tests do you write and how                                                                                                                                                   | Testing          |
@@ -1711,17 +1711,17 @@ Each translated file follows the same structure as the main list, but in the res
 | Where the Bean annotation is used                                                                                                                                                 | Spring           |
 | What are the methods of configuration Spring applications                                                                                                                         | Spring           |
 | Tell the structure of Framework Collection                                                                                                                                        | Spring           |
-| What did I do on Spring                                                                                                                                                           | Spring           |
+| What the largest project did you do using Spring                                                                                                                                  | Spring           |
 | How to create singleton-tin when starting a Spring application                                                                                                                    | Spring           |
 | What types of proxies do you know                                                                                                                                                 | Spring           |
 | The difference in annotations Service, Repository, Controller                                                                                                                     | Spring           |
 | How to quickly make a rest service                                                                                                                                                | Spring           |
 | What is the difference between RestController from Controller                                                                                                                     | Spring           |
 | What is the BEAN annotation for                                                                                                                                                   | Spring           |
-| Why do you need a springs                                                                                                                                                         | Spring           |
+| Why do you need a Spring Framework                                                                                                                                                | Spring           |
 | How to write a web application on Java                                                                                                                                            | Spring           |
 | How SOAP differs from REST                                                                                                                                                        | Spring           |
-| As if organized the Delete method                                                                                                                                                 | Spring           |
+| How to write a Delete method                                                                                                                                                      | Spring           |
 | What is JWT for                                                                                                                                                                   | Spring           |
 | What is the difference between authentication and authorization                                                                                                                   | Spring           |
 | What is the life cycle of an object that creates Spring                                                                                                                           | Spring           |
@@ -1729,9 +1729,9 @@ Each translated file follows the same structure as the main list, but in the res
 | What is the difference between the component and bina                                                                                                                             | Spring           |
 | What is the difference between Filters, Interceptors, and Listeners in Spring                                                                                                     | Spring           |
 | What does the SCAN component do                                                                                                                                                   | Spring           |
-| How many contexts can be                                                                                                                                                          | Spring           |
+| How many contexts can be in Spring                                                                                                                                                | Spring           |
 | Is it possible to create two singleton in Spring.                                                                                                                                 | Spring           |
-| How the context works                                                                                                                                                             | Spring           |
+| How the context works in Spring                                                                                                                                                   | Spring           |
 | How can you create Servlett in Spring'e                                                                                                                                           | Spring           |
 | How to create a controller in Spring                                                                                                                                              | Spring           |
 | Now in Spring it is not necessary to indicate the AbowireD annotation, why is it so                                                                                               | Spring           |
@@ -1764,13 +1764,13 @@ Each translated file follows the same structure as the main list, but in the res
 | Have you heard anything about Spring MVC                                                                                                                                          | Spring           |
 | What are the advantages of the sergete technology over CGI Common Gateway Interface                                                                                               | Servlets         |
 | What is the structure of the web project                                                                                                                                          | Servlets         |
-| What is the "Container of the Servmar"                                                                                                                                            | Servlets         |
+| What is the "Container of the Servlets"                                                                                                                                           | Servlets         |
 | Why do you need application servers if there are server containers                                                                                                                | Servlets         |
 | As a serviceman container controls the life cycle of the Serlet, when and what methods are called                                                                                 | Servlets         |
 | What is a "deployment descriptor"                                                                                                                                                 | Servlets         |
-| What actions need to be done when creating Servesta                                                                                                                               | Servlets         |
-| In which case is it required to reduce the Service () method ()                                                                                                                   | Servlets         |
-| Does it make sense to determine the designer for the servlet, which is better to initialize data                                                                                  | Servlets         |
+| What actions need to be done when creating Servlets                                                                                                                               | Servlets         |
+| In which case is it required to override the service() method                                                                                                                     | Servlets         |
+| Does it make sense to determine the constructor for the servlet                                                                                                                   | Servlets         |
 
 ### Contributing
 
